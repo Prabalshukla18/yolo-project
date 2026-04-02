@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pt
+*.pth
+*.onnx
+runs/
+data/

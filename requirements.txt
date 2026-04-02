@@ -1,0 +1,6 @@
+# FORENIX AI — Dependencies
+# Install with: pip install -r requirements.txt
+
+ultralytics>=8.0.0       # YOLOv8 (installs torch automatically)
+opencv-python>=4.8.0     # Frame extraction
+numpy>=1.24.0            # Array operations
